@@ -1,0 +1,79 @@
+body{
+  background-color: #fdfdfd;
+}
+.App {
+    margin: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .library-container {
+    display: flex;
+    flex-direction:row;
+  }
+
+  .tab {
+    display:inline-block;
+    border: 1px solid #fdfdfd;
+    background-color: #ededed;
+    font-size:14px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    margin-right:10px;
+    margin-bottom: 10px;
+    border-radius:5px;
+  }
+
+  .search-input {
+    height:40px;
+    width:-webkit-fill-available;
+    border: 1px solid #fdfdfd;
+    background-color: #ededed;
+    padding: 5px 15px;
+    margin-bottom:0;
+  }
+
+  .result-list {
+    height:450px;
+    width:auto;
+    overflow-x: auto;
+    background-color: #ededed;
+    padding: 15px;
+    font-size: 12px;
+  }
+
+  .single-item {
+    padding:10px;
+    cursor: pointer;
+  }
+
+  .single-item:active {
+    background-color:#fdfdfd
+  }
+
+  .single-item:hover {
+    background-color: #fdfdfd;
+  }
+
+  .book-detail {
+    
+    width:auto;
+  }
+
+  .library-left-section {
+ width:50%;
+ margin-right:20px;
+  }
+  .library-right-section {
+    width:50%;
+    background-color: #ededed;
+    padding:15px;
+  
+  }
+  .caption {
+    font-size:14px;
+    font-weight: 700;
+  }
+  .detail-text {
+    font-size: 12px;
+
+  }

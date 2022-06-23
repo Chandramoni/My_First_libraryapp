@@ -1,0 +1,765 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 3475,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "KtrATnRZOlMC",
+        "etag": "gSOkLSffH4o",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/KtrATnRZOlMC",
+        "volumeInfo": {
+          "title": "Start Quilting",
+          "subtitle": "Everything First-Time Quilters Need to Succeed; 8 Quick Projects--Most in 4 Sizes",
+          "authors": [
+            "Alex Anderson"
+          ],
+          "publisher": "C&T Publishing Inc",
+          "publishedDate": "2009",
+          "description": "An expanded edition of the author's classic beginners' guide to quilting discusses equipment, fabric, tools, and techniques while offering patterns for six simple block quilts. Original.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781571208125"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1571208127"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 48,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=KtrATnRZOlMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=KtrATnRZOlMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=KtrATnRZOlMC&printsec=frontcover&dq=quilting&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=KtrATnRZOlMC&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Start_Quilting.html?hl=&id=KtrATnRZOlMC"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=KtrATnRZOlMC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "An expanded edition of the author&#39;s classic beginners&#39; guide to quilting discusses equipment, fabric, tools, and techniques while offering patterns for six simple block quilts. Original."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "FEA6EAAAQBAJ",
+        "etag": "mSw9vfx1Cus",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/FEA6EAAAQBAJ",
+        "volumeInfo": {
+          "title": "Conscious Crafts: Quilting",
+          "subtitle": "20 Mindful Makes to Reconnect Head, Heart & Hands",
+          "authors": [
+            "Elli Beaven"
+          ],
+          "publisher": "Conscious Crafts",
+          "publishedDate": "2021-08-10",
+          "description": "Conscious Crafts: Quilting is a contemporary craft book containing 20 simple projects for gorgeous quilted pieces.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780711257450"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0711257450"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 144,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FEA6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FEA6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=FEA6EAAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=FEA6EAAAQBAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Conscious_Crafts_Quilting.html?hl=&id=FEA6EAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=FEA6EAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Conscious Crafts: Quilting is a contemporary craft book containing 20 simple projects for gorgeous quilted pieces."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "hU8uuQEACAAJ",
+        "etag": "3ZJ5ZGFgeKo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/hU8uuQEACAAJ",
+        "volumeInfo": {
+          "title": "Beginner's Guide to Quilting",
+          "subtitle": "16 Projects to Learn to Quilt",
+          "authors": [
+            "Elizabeth Betts"
+          ],
+          "publisher": "David & Charles",
+          "publishedDate": "2013-06-07",
+          "description": "Learn how to make beautiful quilts with this comprehensive guide to patchwork and quilting for beginners. Covers all aspects of quilting from piecing and applique to quilting and binding. Choose from 16 simple projects, each focusing on a different technique, from bags and cushions to table mats, wall hangings and bed quilts.Clear illustrations and step-by-step instructions accompany each project, making them all suitable for even a complete novice. The book also includes a quilting glossary explaining common quilting and sewing terms.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1446302547"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781446302545"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 128,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hU8uuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hU8uuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=hU8uuQEACAAJ&dq=quilting&hl=&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=hU8uuQEACAAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Beginner_s_Guide_to_Quilting.html?hl=&id=hU8uuQEACAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=hU8uuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Learn how to make beautiful quilts with this comprehensive guide to patchwork and quilting for beginners."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "_eyJAAAAQBAJ",
+        "etag": "EuEhxcrqHKE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/_eyJAAAAQBAJ",
+        "volumeInfo": {
+          "title": "A Quilting Life",
+          "subtitle": "Creating a Handmade Home",
+          "authors": [
+            "Sherri McConnell"
+          ],
+          "publisher": "C&T Publishing Inc",
+          "publishedDate": "2013-02-12",
+          "description": "“With its diverse selection of fabrics and designs, A Quilting Life is a fine pick for any quilter looking to produce family-oriented keepsake results.” —The Needlecraft Shelf Bring the handmade tradition home with these charming quilts and home accessories. Inspired by a grandmother who loved to sew for her family, quilter and blogger Sherri McConnell gives traditional patterns like hexagons, stars, snowballs, and Dresden Plates a new look featuring fabrics by some of today’s most popular designers. Nineteen cozy projects include pillows, tote bags, table runners, and larger quilts—quick and easy designs that make great gifts. “Sherri’s book is a treasure! It’s full of fun and straight-forward patterns for quilts, table toppers, pillows, bags and more—all the goodies to make a cozy home.” —Thimbleanna “Would you like the opportunity to make tomorrow’s heirlooms in today’s vast selection of prints? . . . If so, this could be the reference book that will get you started. There are 19 projects, mainly focusing on handmade household items but including some larger quilts too.” —Fabrications Quilting for You “Beautiful inspiration if you are a seasoned quilter, but also a great resource with clear and in some cases, simple patterns for newbies as well.” —Diary of a Quilter “Color photos of finished needlework projects accompany step-by-step diagrams and assembly patterns, while at-a-glance sidebars covering materials and cutting allow needleworkers to gauge the complexity of each project.” —The Needlecraft Shelf",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781607056607"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1607056607"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 80,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.2.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_eyJAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_eyJAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=_eyJAAAAQBAJ&pg=PP1&dq=quilting&hl=&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=_eyJAAAAQBAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/A_Quilting_Life.html?hl=&id=_eyJAAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/A_Quilting_Life-sample-epub.acsm?id=_eyJAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=_eyJAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": ". . . If so, this could be the reference book that will get you started."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "TZqxDwAAQBAJ",
+        "etag": "5PS6hPDcc1U",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/TZqxDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Quilting Patterns",
+          "subtitle": "110 Ready-to-Use Machine Quilting Designs",
+          "authors": [
+            "Linda Macho"
+          ],
+          "publisher": "Courier Dover Publications",
+          "publishedDate": "2019-12-18",
+          "description": "Feathers, pinwheels, flowers, birds, and other eye-catching designs abound in this treasury of more than 100 quilting patterns. Clear, complete directions and numerous diagrams guide even beginners through every step.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780486838151"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0486838153"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 80,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.0.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=TZqxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=TZqxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=TZqxDwAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=TZqxDwAAQBAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Quilting_Patterns.html?hl=&id=TZqxDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=TZqxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Feathers, pinwheels, flowers, birds, and other eye-catching designs abound in this treasury of more than 100 quilting patterns. Clear, complete directions and numerous diagrams guide even beginners through every step."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "9CrE1b6bVsAC",
+        "etag": "dfu3/wQNWDk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/9CrE1b6bVsAC",
+        "volumeInfo": {
+          "title": "The Complete Guide to Machine Quilting",
+          "subtitle": "How to Use Your Home Sewing Machine to Achieve Hand-Quilting Effects",
+          "authors": [
+            "Joanie Zeier Poole"
+          ],
+          "publisher": "Macmillan",
+          "publishedDate": "2012-07-17",
+          "description": "Shares information on machine quilting, including the basics of how to set up your machine, time-saving tips, and more advanced deorative stitching.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781250004253"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "125000425X"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 128,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "averageRating": 4.5,
+          "ratingsCount": 2,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9CrE1b6bVsAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9CrE1b6bVsAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=9CrE1b6bVsAC&dq=quilting&hl=&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=9CrE1b6bVsAC&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Guide_to_Machine_Quilting.html?hl=&id=9CrE1b6bVsAC"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=9CrE1b6bVsAC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Shares information on machine quilting, including the basics of how to set up your machine, time-saving tips, and more advanced deorative stitching."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "gjhovgAACAAJ",
+        "etag": "FL8xy7EHrG4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/gjhovgAACAAJ",
+        "volumeInfo": {
+          "title": "The Quilting Bible, 3rd Edition",
+          "subtitle": "The Complete Photo Guide to Machine Quilting",
+          "authors": [
+            "Editors of CPi"
+          ],
+          "publisher": "Creative Publishing int'l",
+          "publishedDate": "2010-03-01",
+          "description": "This is the one reference every quilter needs. Its 352 pages and 1,000 photographs cover every aspect of machine quilting. Sections include quilt basics, block-pieced quilts, appliqué quilts, special piecing methods, embellishing quilts, and a sampler quilt with related projects. Quilters from beginners to the skilled will turn to this book again and again. Revised with new photography and updated content to be more complete, this is the only reference machine quilters will need.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1589235126"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781589235120"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 320,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=gjhovgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=gjhovgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=gjhovgAACAAJ&dq=quilting&hl=&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=gjhovgAACAAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Quilting_Bible_3rd_Edition.html?hl=&id=gjhovgAACAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=gjhovgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Quilters from beginners to the skilled will turn to this book again and again. Revised with new photography and updated content to be more complete, this is the only reference machine quilters will need."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "SI4TEAAAQBAJ",
+        "etag": "M9/ACszzOpM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/SI4TEAAAQBAJ",
+        "volumeInfo": {
+          "title": "Urban Quilting",
+          "authors": [
+            "Wendy Chow"
+          ],
+          "publisher": "Blue Star Press",
+          "publishedDate": "2021-01-19",
+          "description": "Perfect for beginners, this quilting book features simple illustrations and easy-to-follow steps that teach you how to make up to 30 beautiful quilts in a short amount of time! A comprehensive guide for both first-time quilters and those looking for a refresher course, Urban Quilting teaches you everything you need to know about this timeless craft. Each pattern contains instructions for three different quilt sizes, with designs that feature bold colors and geometric shapes that will stand out and look stunning in your home. Urban Quilting includes: • 10 quilt designs, each with patterns for 3 sizes, for making up to 30 quilts • Beginner-friendly content, including everything you need to know to get started • Detailed instructions with clear diagrams so you can learn quickly and easily • Insightful information on the history of quilting and how today's quilters are modernizing the craft",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781950968428"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1950968421"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 160,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.3.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=SI4TEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=SI4TEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=SI4TEAAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=SI4TEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SI4TEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 2012.69,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 2012.69,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=SI4TEAAAQBAJ&rdid=book-SI4TEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 2012690000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 2012690000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Urban_Quilting-sample-epub.acsm?id=SI4TEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Urban_Quilting-sample-pdf.acsm?id=SI4TEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=SI4TEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Perfect for beginners, this quilting book features simple illustrations and easy-to-follow steps that teach you how to make up to 30 beautiful quilts in a short amount of time!"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "jD0jpmqH6S8C",
+        "etag": "fWwFnWwk0tA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/jD0jpmqH6S8C",
+        "volumeInfo": {
+          "title": "Start Quilting with Alex Anderson",
+          "subtitle": "Six Projects for First-time Quilters",
+          "authors": [
+            "Alex Anderson"
+          ],
+          "publisher": "C&T Publishing Inc",
+          "publishedDate": "2001",
+          "description": "Discusses equipment, fabric, tools, and techniques while offering patterns for six simple block quilts.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781571201676"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "157120167X"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 40,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=jD0jpmqH6S8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=jD0jpmqH6S8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=jD0jpmqH6S8C&printsec=frontcover&dq=quilting&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=jD0jpmqH6S8C&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Start_Quilting_with_Alex_Anderson.html?hl=&id=jD0jpmqH6S8C"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=jD0jpmqH6S8C&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Discusses equipment, fabric, tools, and techniques while offering patterns for six simple block quilts."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "0sPWAAAAMAAJ",
+        "etag": "YHU/8iJJ7TY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/0sPWAAAAMAAJ",
+        "volumeInfo": {
+          "title": "The Mountain Artisans Quilting Book",
+          "authors": [
+            "Alfred Allan Lewis"
+          ],
+          "publishedDate": "1973",
+          "description": "2 copies located in Circulation.",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "IND:32000001997511"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 179,
+          "printType": "BOOK",
+          "categories": [
+            "Quilting"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0sPWAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0sPWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=0sPWAAAAMAAJ&q=quilting&dq=quilting&hl=&cd=10&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=0sPWAAAAMAAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Mountain_Artisans_Quilting_Book.html?hl=&id=0sPWAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=0sPWAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "2 copies located in Circulation."
+        }
+      }
+    ]
+  }
+  
